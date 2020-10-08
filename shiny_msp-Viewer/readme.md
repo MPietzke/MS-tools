@@ -6,4 +6,4 @@ It runs in R, just open the file in R-Studio, make sure it has the required pack
 Then upload a msp file using the "browse" button. 
 The uploaded msp file can be exported for further processing as a table on csv format. Further the mass spectra can be inspected using this tool. 
 
-### To do: Add feature to deal with multiple copies per compound.
+#### To do: Add feature to deal with multiple copies per compound.
